@@ -149,6 +149,8 @@ body {
 .timeline .swiper-pagination-bullet {
   width: auto;
   height: auto;
+  text-shadow: black;
+  
   text-align: center;
   opacity: 1;
   background: transparent;

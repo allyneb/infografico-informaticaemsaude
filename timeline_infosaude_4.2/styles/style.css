@@ -29,8 +29,8 @@ body {
   max-width: 800px;
   color: #616161;
   font-weight: 350;
-  text-align: absolute;
-  margin: 30px auto;
+  text-align: center;
+  margin: 20px auto;
   color: #052635;
 }
 
@@ -82,7 +82,7 @@ body {
 .timeline .swiper-slide .timeline-year {
   display: block;
   font-style: inherit ;
-  font-size: 42px;
+  font-size: 36px;
   margin-bottom: 50px;
   -webkit-transform: translate3d(20px, 0, 0);
           transform: translate3d(20px, 0, 0);
